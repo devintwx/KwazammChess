@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ This\ class\ represents\ a\ player\ in\ the\ chess\ game.\r\n\ It\ stores\ information\ about\ the\ player's\ assigned\ color.\r\n
+comment1.params=color
+comment1.target=Player(java.lang.String)
+comment1.text=\r\n\ Constructor\ to\ initialize\ a\ Player\ object\ with\ a\ specified\ color.\r\n\r\n\ @param\ color\ The\ color\ assigned\ to\ the\ player\ (e.g.,\ "White",\ "Black").\r\n
+comment2.params=color
+comment2.target=void\ setColor(java.lang.String)
+comment2.text=\r\n\ Sets\ the\ player's\ color.\r\n\r\n\ @param\ color\ The\ color\ to\ be\ assigned\ to\ the\ player.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getColor()
+comment3.text=\r\n\ Retrieves\ the\ player's\ color.\r\n\r\n\ @return\ The\ color\ assigned\ to\ the\ player.\r\n
+numComments=4

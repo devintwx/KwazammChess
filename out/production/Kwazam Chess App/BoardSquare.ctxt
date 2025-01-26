@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=BoardSquare
+comment0.text=\r\n\ Represents\ a\ board\ square\ on\ a\ chessboard\ with\ coordinates\ and\ a\ piece.\r\n
+comment1.params=row\ col
+comment1.target=BoardSquare(int,\ int)
+comment10.params=col
+comment10.target=void\ setColPosition(int)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=row\ col\ piece
+comment2.target=BoardSquare(int,\ int,\ ChessPiece)
+comment3.params=
+comment3.target=ChessPiece\ getPlacedPiece()
+comment4.params=piece
+comment4.target=void\ setPlacedPiece(ChessPiece)
+comment5.params=piece
+comment5.target=void\ assignPiece(ChessPiece)
+comment6.params=
+comment6.target=java.lang.Integer\ getRowPosition()
+comment7.params=
+comment7.target=java.lang.Integer\ getColPosition()
+comment8.params=
+comment8.target=boolean\ hasPiece()
+comment9.params=row
+comment9.target=void\ setRowPosition(int)
+numComments=12

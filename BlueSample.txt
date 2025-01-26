@@ -1,0 +1,11 @@
+  RTor    RBiz    RSau    RBiz    ----  
+  RRam    RRam    ----    ----    ----  
+  ----    ----    ----    RRam    RRam  
+  ----    RXor    ----    BRam    ----  
+  ----    ----    RRam    ----    ----  
+  ----    BRam    BBiz    ----    ----  
+  BRam    ----    BRam    BSau    BRam  
+  BXor    BBiz    ----    ----    BTor  
+
+Player to Move: B
+Move Count: 13
